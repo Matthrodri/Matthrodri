@@ -2,7 +2,8 @@
 
 **`Desenvolvedor`**
 
-Me chamo Mattheus Alonso, tenho 29 anos e sou natural de São Paulo. Concluí o ensino médio no Colégio Objetivo. Sou formado em Ciência da Computação na UNIP.
+Me chamo Mattheus Alonso, tenho 29 anos e sou de São Paulo. Sou formado em Ciência da Computação na UNIP.
+Dev Junior | QlikSense | Cloud (AWS)
 
 ---
 
