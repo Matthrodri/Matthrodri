@@ -3,7 +3,8 @@
 **`Desenvolvedor`**
 
 Me chamo Mattheus Alonso, tenho 29 anos e sou de São Paulo. Sou formado em Ciência da Computação na UNIP. <br>
-Dev Junior | QlikSense | Cloud (AWS)
+Dev Junior | QlikSense | Cloud (AWS) <br>
+Linkedin: https://www.linkedin.com/in/mattheusalonso/
 
 ---
 
