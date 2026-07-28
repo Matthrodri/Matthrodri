@@ -1,15 +1,10 @@
 # Mattheus Alonso
-
-**`Desenvolvedor`**
-
-Me chamo Mattheus Alonso, tenho 29 anos e sou de São Paulo. Sou formado em Ciência da Computação na UNIP. <br>
-Dev Junior | QlikSense | Cloud (AWS) <br>
+**`Developer`**
+My name is Mattheus Alonso, I'm 29 years old and I'm from São Paulo, Brazil. I hold a Bachelor's degree in Computer Science from UNIP. <br>
+Mid-level Developer | QlikSense | Cloud (AWS) <br>
 Linkedin: https://www.linkedin.com/in/mattheusalonso/
-
 ---
-
-### 🤖 Linguagens e Tecnologias
-
+### 🤖 Languages and Technologies
 <img 
     align="left" 
     alt="HTML"
@@ -41,6 +36,22 @@ Linkedin: https://www.linkedin.com/in/mattheusalonso/
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="React"
+    title="React" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="React Native"
+    title="React Native" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
 />
 <img 
     align="left" 
