@@ -23,3 +23,14 @@ Mid-level Developer | JavaScript, TypeScript, Python, Git, MySQL, PostgreSQL | Q
 <img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 
 <br clear="left"/>
+
+---
+
+### 📊 GitHub Stats
+
+<img align="left" width="49%" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=dracula" />
+<img align="left" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=dracula" />
+
+<br clear="left"/>
+
+![GitHub Streak](https://streak-stats.demolab.com?user=SEU_USERNAME&theme=dracula)
