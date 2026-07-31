@@ -26,11 +26,8 @@ Mid-level Developer | JavaScript, TypeScript, Python, Git, MySQL, PostgreSQL | Q
 
 ---
 
+---
+
 ### 📊 GitHub Stats
-
-<img align="left" width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Matthrodri&theme=github_dark" />
-<img align="left" width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Matthrodri&theme=github_dark" />
-
-<br clear="left"/>
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Matthrodri&theme=dracula)
