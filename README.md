@@ -1,7 +1,7 @@
 # Mattheus Alonso
 **`Developer`**
 
-My name is Mattheus Alonso, I'm 29 years old and I'm from São Paulo, Brazil. I hold a Bachelor's degree in Computer Science from UNIP. <br>
+My name is Mattheus Alonso, I'm 29 years old and I'm from São Paulo, Brazil. I hold a Bachelor's degree in Computer Science. <br>
 Mid-level Developer | JavaScript, TypeScript, Python, Git, MySQL, PostgreSQL | QlikSense | Cloud (AWS) <br>
 
 🔗 [LinkedIn](https://www.linkedin.com/in/mattheusalonso/)
