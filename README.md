@@ -28,9 +28,9 @@ Mid-level Developer | JavaScript, TypeScript, Python, Git, MySQL, PostgreSQL | Q
 
 ### 📊 GitHub Stats
 
-<img align="left" width="49%" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=dracula" />
-<img align="left" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=dracula" />
+<img align="left" width="49%" src="https://github-readme-stats.vercel.app/api?username=Matthrodri&show_icons=true&theme=dracula" />
+<img align="left" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matthrodri&layout=compact&theme=dracula" />
 
 <br clear="left"/>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=SEU_USERNAME&theme=dracula)
+![GitHub Streak](https://streak-stats.demolab.com?user=Matthrodri&theme=dracula)
