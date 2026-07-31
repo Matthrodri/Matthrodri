@@ -26,8 +26,6 @@ Mid-level Developer | JavaScript, TypeScript, Python, Git, MySQL, PostgreSQL | Q
 
 ---
 
----
-
 ### 📊 GitHub Stats
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Matthrodri&theme=dracula)
