@@ -29,4 +29,4 @@ Mid-level Developer | JavaScript, TypeScript, Python, Git, MySQL, PostgreSQL, Ql
 
 [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=Matthrodri&theme=dracula&hide_border=true&v=2)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Matthrodri&layout=compact&theme=dracula&hide_border=true&v=2)](https://github.com/Matthrodri)
+![Top Languages](./profile/top-langs.svg)
