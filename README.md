@@ -18,9 +18,8 @@ Mid-level Developer | JavaScript, TypeScript, Python, Git, MySQL, PostgreSQL, Ql
 <img align="left" alt="PostgreSQL" title="PostgreSQL" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
 <img align="left" alt="AWS" title="AWS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
 <img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+<img align="left" alt="QlikSense" title="QlikSense" height="30px" style="padding-right: 10px;" src="https://img.shields.io/badge/QlikSense-009845?style=for-the-badge&logo=qlik&logoColor=white" />
 <br clear="left"/>
-
-![QlikSense](https://img.shields.io/badge/QlikSense-009845?style=for-the-badge&logo=qlik&logoColor=white)
 
 ---
 
