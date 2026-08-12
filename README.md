@@ -2,7 +2,6 @@
 **`Developer`**
 
 I'm 29 years old and I'm from São Paulo, Brazil. I hold a Bachelor's degree in Computer Science. <br>
-Mid-level Developer | JavaScript, TypeScript, Python, Git, MySQL, PostgreSQL, QlikSense | Cloud (AWS)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mattheusalonso/)
 
